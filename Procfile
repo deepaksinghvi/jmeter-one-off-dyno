@@ -1,0 +1,1 @@
+jmetertask: bash entrypoint.sh
